@@ -1,0 +1,14 @@
+C:\Users\Елена\Desktop\SemProg5\bin\Debug\net7.0\SemProg5.exe
+C:\Users\Елена\Desktop\SemProg5\bin\Debug\net7.0\SemProg5.deps.json
+C:\Users\Елена\Desktop\SemProg5\bin\Debug\net7.0\SemProg5.runtimeconfig.json
+C:\Users\Елена\Desktop\SemProg5\bin\Debug\net7.0\SemProg5.dll
+C:\Users\Елена\Desktop\SemProg5\bin\Debug\net7.0\SemProg5.pdb
+C:\Users\Елена\Desktop\SemProg5\obj\Debug\net7.0\SemProg5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\SemProg5\obj\Debug\net7.0\SemProg5.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\SemProg5\obj\Debug\net7.0\SemProg5.AssemblyInfo.cs
+C:\Users\Елена\Desktop\SemProg5\obj\Debug\net7.0\SemProg5.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\SemProg5\obj\Debug\net7.0\SemProg5.dll
+C:\Users\Елена\Desktop\SemProg5\obj\Debug\net7.0\refint\SemProg5.dll
+C:\Users\Елена\Desktop\SemProg5\obj\Debug\net7.0\SemProg5.pdb
+C:\Users\Елена\Desktop\SemProg5\obj\Debug\net7.0\SemProg5.genruntimeconfig.cache
+C:\Users\Елена\Desktop\SemProg5\obj\Debug\net7.0\ref\SemProg5.dll
